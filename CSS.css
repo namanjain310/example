@@ -1,0 +1,42 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#ccc;
+    height:300px;
+    width:150px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:750px;
+    float:left;
+    padding:10px;
+    align-content:;
+    color:crimson;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+#menu {
+    background-color: #000;
+    color: #fff;
+    padding: 4px;
+    opacity: .8;
+}
+#menu ul {padding: 0px;margin: 0px;}
+#menu ul li{display: inline-block;padding:5px;}
+a{color:crimson}
+a:hover{color:red;}
+#register img { width: 30%;float:left;}
+#register .form-div{width:70% ;float:left; ; }
+
